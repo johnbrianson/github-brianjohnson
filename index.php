@@ -1,11 +1,11 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Git</title>
-</head>
-<body>
-<h1>Testing</h1>
+<?php
 
-</body>
-</html>
+$message = "Hello World!";
+
+if($message == "Hello World!") {
+    echo $message
+} else {
+    echo ":)";
+}
+
+?>
